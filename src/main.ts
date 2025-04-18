@@ -28,5 +28,5 @@ function add({a,b}: {a: number, b: number}) {
     return a + b;
 }
 
-let result= add( {a: 12, b: 14});
+let result= add({a: 12, b: 14});
 console.log(result);
